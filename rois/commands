@@ -1,0 +1,2 @@
+3dresample -master hocpa.nii.gz -input mni_icbm152_gm_tal_nlin_asym_09c.nii.gz -prefix gm_resample2
+fslmaths gm_resample.nii.gz -thr .65 -bin gm_resample_thr.nii.gz
