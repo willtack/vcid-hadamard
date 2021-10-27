@@ -2,3 +2,4 @@ data/
 .ipynb_checkpoints
 analysis/*_old.csv
 .DS_Store
+figs/*.jpg
